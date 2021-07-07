@@ -41,6 +41,7 @@ describe "Dog" do
     end
   end
 
+
   describe '.update' do
     it 'updates the record associated with a given instance' do
       teddy.save
